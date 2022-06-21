@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GTShowbiz
 - 👀 I’m interested in Security
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Whatever I can.
 - 📫 How to reach me ...
 
 <!---
